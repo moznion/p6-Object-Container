@@ -1,0 +1,19 @@
+{
+  "authors" : [
+    "moznion"
+  ],
+  "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "blah blah blah",
+  "license" : "Artistic-2.0",
+  "name" : "Object::Container",
+  "perl" : "6.c",
+  "provides" : {
+    "Object::Container" : "lib/Object/Container.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "",
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}
