@@ -44,11 +44,12 @@ method !put($name, Object::Container::Item $item) {
 }
 
 method !find($name) returns Any {
-    if (!$!container{$name}.defined) {
+    my $obj = $!container{$name};
+    if (!$obj.defined) {
         return Nil;
     }
 
-    return $!container{$name}.get-instance;
+    return $obj.get-instance;
 }
 
 method !remove($name) returns Bool {
