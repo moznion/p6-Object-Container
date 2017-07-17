@@ -39,11 +39,6 @@ DESCRIPTION
 
 Object::Container is a simple container for object. A simple DI mechanism can be implemented easily by using this module. This module provides following features;
 
-over
-====
-
-
-
   * Register object to container
 
   * Find object from container
@@ -51,11 +46,6 @@ over
   * Remove registered object from container
 
   * Clear container
-
-back
-====
-
-
 
 METHODS
 =======

@@ -108,14 +108,10 @@ Object::Container - A simple container for object for perl6
 Object::Container is a simple container for object. A simple DI mechanism can be implemented easily by using this module.
 This module provides following features;
 
-=over
-
 =item Register object to container
 =item Find object from container
 =item Remove registered object from container
 =item Clear container
-
-=back
 
 =head1 METHODS
 
