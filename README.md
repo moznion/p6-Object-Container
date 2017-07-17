@@ -42,15 +42,15 @@ Object::Container is a simple container for object. A simple DI mechanism can be
 over
 ====
 
-4
 
-  * * Register object to container
 
-  * * Find object from container
+  * Register object to container
 
-  * * Remove registered object from container
+  * Find object from container
 
-  * * Clear container
+  * Remove registered object from container
+
+  * Clear container
 
 back
 ====
