@@ -1,5 +1,5 @@
 use v6.c;
-unit class Object::Container::Item:ver<0.0.1>;
+unit class Object::Container::Item:ver<0.0.2>;
 
 has Bool $!is-initialized;
 has Callable $!initializer;

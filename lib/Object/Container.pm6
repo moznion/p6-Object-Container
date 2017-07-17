@@ -1,5 +1,5 @@
 use v6.c;
-unit class Object::Container:ver<0.0.1>;
+unit class Object::Container:ver<0.0.2>;
 
 use Object::Container::Item;
 
